@@ -104,7 +104,9 @@ Transformers are the foundation of Large Language Models (LLMs) such as GPT (Ope
  5. Serve as the foundation of LLMs like GPT (OpenAI), BERT (Google), and LLaMA (Meta).
  6. Handle multimodal data (text, image, speech) in advanced models.
  7. Transformers are the most impactful architecture for LLMs because they allow scaling to billions of parameters while maintaining contextual understanding and coherence.
-    <img width="720" height="587" alt="image" src="https://github.com/user-attachments/assets/55c16c6a-8c91-4129-9487-ab7169b29faf" />
+
+    <img width="1360" height="861" alt="image" src="https://github.com/user-attachments/assets/a7509e54-61be-494d-b9e1-14e5663a6278" />
+
 
 ## 3. Generative AI Applications
 
@@ -149,7 +151,6 @@ Scaling amplifies not only model performance but also risks. Large models traine
 Research into scaling laws has shown that model performance improves predictably as parameters, data, and compute power increase. This suggests that even larger models will continue to achieve breakthroughs in reasoning, creativity, and problem-solving. However, future advancements will require balancing scale with efficiency—through innovations like model compression, efficient training methods, and smaller fine-tuned models. Ultimately, scaling may bring AI closer to Artificial General Intelligence (AGI), but responsible deployment will remain a critical challenge.
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/b95a68f8-80d1-4ea1-b442-c37c4289dbf3" />
-
 
 
 # Result
