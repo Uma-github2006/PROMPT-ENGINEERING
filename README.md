@@ -11,7 +11,6 @@ Develop a comprehensive report for the following exercises:
 1.1 Identify the goal of the report (e.g., educational, research, tech overview)
 1.2 Set the target audience level (e.g., students, professionals)
 1.3 Draft a list of core topics to cover
-
 ## Step 2: Create Report Skeleton/Structure
 2.1 Title Page
 2.2 Abstract or Executive Summary
@@ -29,29 +28,24 @@ Develop a comprehensive report for the following exercises:
 •	Future Trends
 2.6 Conclusion
 2.7 References
-________________________________________
 ## Step 3: Research and Data Collection
 3.1 Gather recent academic papers, blog posts, and official docs (e.g., OpenAI, Google AI)
 3.2 Extract definitions, explanations, diagrams, and examples
 3.3 Cite all sources properly
-________________________________________
 ## Step 4: Content Development
 4.1 Write each section in clear, simple language
 4.2 Include diagrams, figures, and charts where needed
 4.3 Highlight important terms and definitions
 4.4 Use examples and real-world analogies for better understanding
-________________________________________
 ## Step 5: Visual and Technical Enhancement
 5.1 Add tables, comparison charts (e.g., GPT-3 vs GPT-4)
 5.2 Use tools like Canva, PowerPoint, or LaTeX for formatting
 5.3 Add code snippets or pseudocode for LLM working (optional)
-________________________________________
 ## Step 6: Review and Edit
 6.1 Proofread for grammar, spelling, and clarity
 6.2 Ensure logical flow and consistency
 6.3 Validate technical accuracy
 6.4 Peer-review or use tools like Grammarly or ChatGPT for suggestions
-________________________________________
 ## Step 7: Finalize and Export
 7.1 Format the report professionally
 7.2 Export as PDF or desired format
@@ -71,8 +65,6 @@ At its core, Generative AI is built upon deep learning and neural networks, whic
 
 The main architectures supporting Generative AI are Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and Transformers. GANs operate on a generator–discriminator principle, where one network creates synthetic data and the other judges its authenticity. VAEs compress data into latent representations and reconstruct variations, allowing controlled creativity. Transformers, powered by self-attention mechanisms, are particularly effective for sequential data like natural language and form the backbone of today’s Large Language Models (LLMs).
 <img width="1400" height="1035" alt="image" src="https://github.com/user-attachments/assets/e5e8607e-244c-4509-b63d-dfc91fd0c088" />
-
-The generative process begins when a trained model receives an input or prompt. From this starting point, the model predicts the next most likely element (such as a word in text, a pixel in an image, or a note in music) based on its learned probability distribution. By repeating this prediction step by step, the system produces coherent, creative, and contextually accurate outputs that often cannot be easily distinguished from human-created content.
 
 Several key architectures form the foundation of Generative AI:
 
